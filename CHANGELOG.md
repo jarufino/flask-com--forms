@@ -1,0 +1,2 @@
+- Estrutura do Projeto
+- Criei app com FLASK
